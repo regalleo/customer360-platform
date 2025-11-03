@@ -1,6 +1,6 @@
 # 📊 Customer 360 Analytics Platform
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)](https://customer360-analytics.onrender.com)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-brightgreen?style=for-the-badge)]([https://customer360-analytics.onrender.com](https://customer360-brxq.onrender.com/))
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/regalleo/customer360-platform)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
@@ -182,5 +182,6 @@ MIT License — Free to use for any purpose
 
 ⭐ Support
 If this project helped you, please give it a star ⭐ on GitHub!
+
 
 
